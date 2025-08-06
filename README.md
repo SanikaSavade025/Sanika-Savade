@@ -33,19 +33,6 @@
 
 ---
 
-## 🧠 Major Projects (Colab Notebooks)
-
-- **LLM_Comparison Dataset**  
-  → Evaluated large language model outputs using ML classification  
-  → Trained & tested on real annotated data using scikit-learn & pandas
-
-- **ML Model Suite**  
-  → Includes Logistic Regression, SVM, Decision Trees, Random Forest, and more  
-  → Metrics: Accuracy, F1, Confusion Matrix, MAE, MSE, R²  
-  → All built & visualized in **Google Colab**  
-
----
-
 ## 🎯 Fun Fact
 
 When I'm not coding, I'm probably:
