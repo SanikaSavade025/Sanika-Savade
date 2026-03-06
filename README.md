@@ -25,14 +25,6 @@
 
 ---
 
-## 📚 Currently Leveling Up In
-
-- 📌 Advanced ML algorithms & LLMs
-- 🧩 Backend Development using Flask APIs
-- 📊 Data Analytics & Visualization with Python tools
-
----
-
 ## 🎯 Fun Fact
 
 When I'm not coding, I'm probably:
